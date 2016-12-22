@@ -1,0 +1,315 @@
+OLDMAX features correlation 
+t_quest_max
+Total features results: 
+t_quest_maxScore: 1.00
+
+t_quest_min
+Total features results: 
+t_quest_minScore: 1.00
+
+t_quest_mean
+Total features results: 
+t_quest_meanScore: 1.00
+
+t_quest_std
+Total features results: 
+t_quest_stdScore: 1.00
+
+nr_abandons
+Total features results: 
+nr_abandonsScore: 1.00
+
+nr_scroll
+Total features results: 
+nr_scrollScore: 1.00
+
+nr_items_scroll
+Total features results: 
+nr_items_scrollScore: 1.00
+
+nr_revisit
+Total features results: 
+nr_revisitScore: 1.00
+
+nr_correct_within_item
+Total features results: 
+nr_correct_within_itemScore: 1.00
+
+nr_correct_between_item
+Total features results: 
+nr_correct_between_itemScore: 1.00
+
+inter_item_interval_max
+Total features results: 
+inter_item_interval_maxScore: 1.00
+
+inter_item_interval_min
+Total features results: 
+inter_item_interval_minScore: 1.00
+
+inter_item_interval_mean
+Total features results: 
+inter_item_interval_meanScore: 1.00
+
+inter_item_interval_std
+Total features results: 
+inter_item_interval_stdScore: 1.00
+
+time_click_max
+Total features results: 
+time_click_maxScore: 1.00
+time_click_stdScore: 0.98
+
+time_click_min
+Total features results: 
+time_click_minScore: 1.00
+
+time_click_mean
+Total features results: 
+time_click_meanScore: 1.00
+
+time_click_std
+Total features results: 
+time_click_maxScore: 0.98
+time_click_stdScore: 1.00
+
+nr_pauses
+Total features results: 
+nr_pausesScore: 1.00
+
+t_pauses_max
+Total features results: 
+t_pauses_maxScore: 1.00
+
+t_pauses_min
+Total features results: 
+t_pauses_minScore: 1.00
+
+t_pauses_mean
+Total features results: 
+t_pauses_meanScore: 1.00
+
+t_pauses_std
+Total features results: 
+t_pauses_stdScore: 1.00
+
+a_max
+Total features results: 
+a_maxScore: 1.00
+a_minScore: 0.97
+jerk_maxScore: 0.98
+
+a_min
+Total features results: 
+a_maxScore: 0.97
+a_minScore: 1.00
+jerk_maxScore: 0.99
+
+a_mean
+Total features results: 
+a_meanScore: 1.00
+
+a_std
+Total features results: 
+a_stdScore: 1.00
+jerk_stdScore: 0.98
+
+jerk_max
+Total features results: 
+a_maxScore: 0.98
+a_minScore: 0.99
+jerk_maxScore: 1.00
+
+jerk_min
+Total features results: 
+jerk_minScore: 1.00
+
+jerk_mean
+Total features results: 
+jerk_meanScore: 1.00
+
+jerk_std
+Total features results: 
+a_stdScore: 0.98
+jerk_stdScore: 1.00
+
+vt_max
+Total features results: 
+vt_maxScore: 1.00
+
+vt_min
+Total features results: 
+vt_minScore: 1.00
+
+vt_mean
+Total features results: 
+vt_meanScore: 1.00
+vx_meanScore: 0.97
+
+vt_std
+Total features results: 
+vt_stdScore: 1.00
+
+vx_max
+Total features results: 
+vx_maxScore: 1.00
+
+vx_min
+Total features results: 
+vx_minScore: 1.00
+
+vx_mean
+Total features results: 
+vt_meanScore: 0.97
+vx_meanScore: 1.00
+
+vx_std
+Total features results: 
+vx_stdScore: 1.00
+
+vy_max
+Total features results: 
+vy_maxScore: 1.00
+
+vy_min
+Total features results: 
+vy_minScore: 1.00
+
+vy_mean
+Total features results: 
+vy_meanScore: 1.00
+
+vy_std
+Total features results: 
+vy_stdScore: 1.00
+
+angles_max
+Total features results: 
+angles_maxScore: 1.00
+
+angles_min
+Total features results: 
+angles_minScore: 1.00
+
+angles_mean
+Total features results: 
+angles_meanScore: 1.00
+
+angles_std
+Total features results: 
+angles_stdScore: 1.00
+
+curvatures_max
+Total features results: 
+curvatures_maxScore: 1.00
+curvatures_meanScore: 0.96
+curvatures_stdScore: 0.98
+var_curvatures_minScore: 0.96
+
+curvatures_min
+Total features results: 
+curvatures_minScore: 1.00
+
+curvatures_mean
+Total features results: 
+curvatures_maxScore: 0.96
+curvatures_meanScore: 1.00
+var_curvatures_minScore: 0.96
+var_curvatures_meanScore: 0.95
+var_curvatures_stdScore: 0.96
+
+curvatures_std
+Total features results: 
+curvatures_maxScore: 0.98
+curvatures_stdScore: 1.00
+var_curvatures_minScore: 0.97
+var_curvatures_meanScore: 0.95
+var_curvatures_stdScore: 0.97
+
+jitter
+Total features results: 
+jitterScore: 1.00
+
+l_strokes_max
+Total features results: 
+l_strokes_maxScore: 1.00
+
+l_strokes_min
+Total features results: 
+l_strokes_minScore: 1.00
+
+l_strokes_mean
+Total features results: 
+l_strokes_meanScore: 1.00
+
+l_strokes_std
+Total features results: 
+l_strokes_stdScore: 1.00
+
+s
+Total features results: 
+sScore: 1.00
+
+straightness_max
+Total features results: 
+straightness_maxScore: 1.00
+
+straightness_min
+Total features results: 
+straightness_minScore: 1.00
+
+straightness_mean
+Total features results: 
+straightness_meanScore: 1.00
+
+straightness_std
+Total features results: 
+straightness_stdScore: 1.00
+
+var_curvatures_max
+Total features results: 
+var_curvatures_maxScore: 1.00
+
+var_curvatures_min
+Total features results: 
+curvatures_maxScore: 0.96
+curvatures_meanScore: 0.96
+curvatures_stdScore: 0.97
+var_curvatures_minScore: 1.00
+var_curvatures_meanScore: 0.99
+var_curvatures_stdScore: 1.00
+
+var_curvatures_mean
+Total features results: 
+curvatures_meanScore: 0.95
+curvatures_stdScore: 0.95
+var_curvatures_minScore: 0.99
+var_curvatures_meanScore: 1.00
+var_curvatures_stdScore: 1.00
+
+var_curvatures_std
+Total features results: 
+curvatures_meanScore: 0.96
+curvatures_stdScore: 0.97
+var_curvatures_minScore: 1.00
+var_curvatures_meanScore: 1.00
+var_curvatures_stdScore: 1.00
+
+w_max
+Total features results: 
+w_maxScore: 1.00
+w_stdScore: 0.99
+
+w_min
+Total features results: 
+w_minScore: 1.00
+
+w_mean
+Total features results: 
+w_meanScore: 1.00
+
+w_std
+Total features results: 
+w_maxScore: 0.99
+w_stdScore: 1.00
+

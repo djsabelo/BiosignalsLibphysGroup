@@ -1,0 +1,5 @@
+OLDMAX results 
+
+ Greedy Forward Selection LeaveOneOut results: 
+Features:['s', 'inter_item_interval_min', 'jitter', 'inter_item_interval_mean', 'vx_std', 'vy_min', 'vx_min', 'l_strokes_min', 'l_strokes_std', 't_quest_mean', 'nr_correct_within_item']
+MSE:[0.31023188811307323, 0.28786777866232238, 0.25191203260234585, 0.23913079497565531, 0.22878350578742962, 0.21363928525513318, 0.20953021308049183, 0.20648342143553036, 0.2002376027778654, 0.19639444699974262, 0.19543695775495012]

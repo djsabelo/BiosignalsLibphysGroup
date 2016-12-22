@@ -1,0 +1,5 @@
+OLDMAX resultsTotal features results: 
+
+ Score: 0.08
+ Residual sum of squares:0.323245152394
+ Outliers:0.0

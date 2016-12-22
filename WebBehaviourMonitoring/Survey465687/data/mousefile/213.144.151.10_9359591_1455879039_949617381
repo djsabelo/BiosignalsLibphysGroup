@@ -1,0 +1,18 @@
+#1455878872660	WBM Version: 0.2
+#1455878872672	doNotTrack: unspecified; oscpu: Windows NT 10.0; WOW64; vendor: ; vendorSub: ; productSub: 20100101; buildID: 20160210153822; appCodeName: Mozilla; appName: Netscape; appVersion: 5.0 (Windows); platform: Win32; userAgent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0; product: Gecko; language: de; 
+#1455878872665	availWidth: 1600; availHeight: 860; width: 1600; height: 900; colorDepth: 24; pixelDepth: 24; top: 0; left: 0; availTop: 0; availLeft: 0; mozOrientation: landscape-primary; 
+0	4	movenextbtn	51	209	51	209	0	0	0	0	1455878872722
+1	0	movenextbtn	52	208	52	208	0	0	0	0	1455878874491
+2	0	movenextbtn	56	205	56	205	0	0	0	0	1455878874501
+3	0	movenextbtn	69	200	69	200	0	0	0	0	1455878874511
+4	0	limesurvey	89	190	89	190	0	0	0	0	1455878874523
+5	0	progressbar	128	171	128	171	0	0	0	0	1455878874531
+6	0	limesurvey	173	150	173	150	0	0	0	0	1455878874544
+7	0	limesurvey	223	128	223	128	0	0	0	0	1455878874552
+8	0	limesurvey	275	106	275	106	0	0	0	0	1455878874564
+9	0	limesurvey	333	85	333	85	0	0	0	0	1455878874572
+10	0	-1	395	67	395	67	0	0	0	0	1455878874584
+11	0	-1	447	49	447	49	0	0	0	0	1455878874593
+12	0	-1	499	31	499	31	0	0	0	0	1455878874603
+13	0	-1	540	16	540	16	0	0	0	0	1455878874611
+14	0	-1	573	4	573	4	0	0	0	0	1455878874621

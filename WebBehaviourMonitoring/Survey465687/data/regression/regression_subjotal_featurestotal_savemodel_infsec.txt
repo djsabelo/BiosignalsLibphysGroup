@@ -1,0 +1,39 @@
+OLDMAX resultsTotal features results: 
+OLDMAX resultsTotal features results: 
+Features:['t_quest_max' 't_quest_min' 't_quest_mean' 't_quest_std' 'nr_abandons'
+ 'nr_scroll' 'nr_items_scroll' 'nr_revisit' 'nr_correct_within_item'
+ 'nr_correct_between_item' 'inter_item_interval_max'
+ 'inter_item_interval_min' 'inter_item_interval_mean'
+ 'inter_item_interval_std' 'time_click_max' 'time_click_min'
+ 'time_click_mean' 'time_click_std' 'nr_pauses' 't_pauses_max'
+ 't_pauses_min' 't_pauses_mean' 't_pauses_std' 'a_max' 'a_min' 'a_mean'
+ 'a_std' 'jerk_max' 'jerk_min' 'jerk_mean' 'jerk_std' 'vt_max' 'vt_min'
+ 'vt_mean' 'vt_std' 'vx_max' 'vx_min' 'vx_mean' 'vx_std' 'vy_max' 'vy_min'
+ 'vy_mean' 'vy_std' 'angles_max' 'angles_min' 'angles_mean' 'angles_std'
+ 'curvatures_max' 'curvatures_min' 'curvatures_mean' 'curvatures_std'
+ 'jitter' 'l_strokes_max' 'l_strokes_min' 'l_strokes_mean' 'l_strokes_std'
+ 's' 'straightness_max' 'straightness_min' 'straightness_mean'
+ 'straightness_std' 'var_curvatures_max' 'var_curvatures_min'
+ 'var_curvatures_mean' 'var_curvatures_std' 'w_max' 'w_min' 'w_mean'
+ 'w_std']
+ Coefficients:[  1.25174372e-03   2.23315445e+00   1.03029867e-01   4.78675788e-02
+   1.04214713e-02  -4.79092631e-02  -4.28202125e-02  -1.82483457e-02
+  -3.89450273e-02   3.48861788e-01  -4.82439851e-02  -4.14372654e-02
+  -3.38900743e-01   4.00254535e-01  -2.47357835e+00   2.96128944e-01
+   1.40162905e+00   1.26673776e+01  -8.30340500e-01   5.26782586e-03
+  -1.48566275e+00   2.33984012e-01  -9.76976288e-02  -6.90547577e-10
+   6.11785010e-08   3.20538914e-05   2.38530977e-05   6.39520589e-11
+  -2.54003554e-11   2.59453068e-03  -1.59893992e-08  -1.31420971e-04
+  -3.94424454e-01  -1.59144822e-01   9.98845810e-03   9.03755997e-05
+   2.82963558e+01   1.46331364e-01  -1.29364207e-02   8.88504832e-05
+  -1.61510312e+01   2.07218911e-01  -9.69332320e-03   2.48073160e-02
+  -4.84207953e-03  -4.50515901e-02  -5.08165478e-02   2.96675949e-02
+  -3.08818235e-03  -3.37382475e+01  -2.72932167e+00  -5.37145671e+00
+  -4.82445585e-04  -5.23707365e-03   5.15016742e-04  -2.38052359e-04
+   1.25342253e-04   1.08529496e+00  -6.01412628e+00   2.99017204e+00
+  -2.93754901e+00  -2.24703845e-04   1.39635315e-04   1.02380967e+00
+   2.47972676e-02   5.38336738e-04  -5.40148053e-03   3.35945947e+00
+  -6.73251383e-02]
+ Residual sum of squares: 0.08
+
+ Score: 0.77
